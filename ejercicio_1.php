@@ -31,9 +31,11 @@
     </div>
 
 </div>
-
+ 
 
 <?php
+
+
     
     if(isset($_POST['enviar']) ){
         $n1 = $_POST['numero1'];
